@@ -1,0 +1,182 @@
+ORVOSI KARTON (4. eset – Ortopédia & Traumatológia (Csípőprotézis (TPA) beültetés utáni rehabilitáció))
+### 1. Személyes adatok
+* **Név:** Kovács Erzsébet
+* **Életkor:** 67 év
+* **Nem:** Nő
+* **Foglalkozás:** Nyugdíjas (korábban általános iskolai tanár)
+
+### 2. Családi anamnézis
+* **Édesanya:** Súlyos kétoldali térdízületi arthrosis (gonarthrosis), 72 éves korában bal oldali TKA beültetés történt. 84 évesen hunyt el agyvérzésben.
+* **Édesapa:** Ismert hypertonia, 76 évesen szívinfarktusban hunyt el.
+* **Testvér:** Egy fiatalabb öccse él, 62 éves, 2-es típusú diabetes mellitus miatt kezelt.
+* **Családi halmozódás:** Mozgásszervi degeneratív megbetegedésekre való hajlam az anyai ágon.
+
+### 3. Szociális anamnézis
+* **Lakókörülmények:** Társasházi lakás I. emeletén él férjével. A épületben nincs lift, a lakásig 18 lépcsőfok vezet fel, mindkét oldalon korláttal. A lakásban küszöbök találhatók, a fürdőszoba kádas kialakítású (kapaszkodó nincs felszerelve).
+* **Családi támogatás:** Férje jó fizikai állapotban van, segítőkész, a háztartási munkákat és a bevásárlást átvállalta.
+* **Munka / Terhelés:** Nyugdíjas, aktív fizikai munkát nem végez.
+* **Hobbik / Sport:** Korábban rendszeres séta, könnyű kertészkedés (hétvégi házban), kézműves tevékenységek. Az elmúlt 1 évben a fájdalom miatt a kertészkedésről és a hosszabb sétákról lemondott.
+* **Káros szenvedélyek:** Dohányzás: nem dohányzik (soha nem dohányzott). Alkoholfogyasztás: alkalmi (heti 1 pohár bor). Koffein: napi 1-2 kávé.
+
+### 4. Kórelőzmény (Anamnesis morbi)
+* **Korábbi megbetegedések:** 
+  * Essenziális hypertonia (15 éve ismert, gyógyszeresen jól beállított).
+  * Enyhe dyslipidemia.
+* **Korábbi műtétek:** Appendectomia (22 éves korában, szövődménymentes).
+* **Rendszeresen szedett gyógyszerek:**
+  * Amlodipin 5 mg (1x1 reggel)
+  * Atorvastatin 10 mg (1x1 este)
+  * Pantoprazol 20 mg (1x1 reggel)
+* **Jelen műtéthez vezető kórelőzmény és diagnózis:**
+  * A beteg 3 éve panaszkodott fokozatosan erősödő jobb oldali terhelési, majd az utóbbi fél évben nyugalmi és éjszakai csípőtáji fájdalomra, amely a jobb comb elülső felszínébe és a térdbe sugárzott. 
+  * **Friss képalkotó / Orvosi diagnózis (műtét előtti X-ray):** Jobb oldali súlyos primér coxarthrosis (Kellgren-Lawrence IV. stádium), jelentős ízületi résbeszűküléssel, subchondralis sclerosisal és osteophytosissal.
+  * **Műtéti beavatkozás (5 nappal ezelőtt):** Jobb oldali cementetlen csípőízületi totál endoprotézis beültetés (TPA / THA) dorsolateralis behatolásból. Műtét alatti szövődmény nem volt.
+  * **Postoperatív képalkotó (Control X-ray, postop 1. nap):** Szabályos helyzetű, stabilan rögzült acetabularis és femoralis komponensek. Luxációra, periprostheticus fracturára utaló jel nincs.
+* **Jelenleg alkalmazott postoperatív gyógyszeres terápia:**
+  * Clexane 0.4 ml sc. 1x1/nap (thrombosis prophylaxis)
+  * Tramadol/Paracetamol 37,5mg/325mg (szükség szerint, max. 3x1/nap)
+  * Algopyrin 500 mg (szükség szerint fájdalomra)
+
+### 5. Jelen panasz
+* **Státusz:** A beteg a postoperatív 5. napon van, jelenleg a rehabilitációs osztályon várja a gyógytorna felmérést és a korai mobilizáció folytatását.
+* **Fájdalom elhelyezkedése:** A jobb csípőtájékon, a műtéti heg környékén és a glutealis régióban lokalizált.
+* **Fájdalom jellege és mértéke:** Fekvő helyzetben, nyugalomban enyhe, tompa fájdalom (VAS: 2-3/10). Aktív mozgatásra, felülésre, átfordulásra és terhelési kísérletre (támaszkodás) éles, feszítő fájdalom jelentkezik (VAS: 5-6/10).
+* **Kiváltó / Súlyosbító tényezők:** Jobb alsó végtag passzív és aktív mozgatása, a műtött oldalra való rátámaszkodás, ülésből állásba való átmenet.
+* **Enyhítő tényezők:** Fekvés háton, felpolcolás, jegelés, szájon át szedett fájdalomcsillapítók.
+* **Beteg által megfogalmazott fő probléma:** Bizonytalanság- és félelemérzet a járás során, nem tudja, mennyire terhelheti a műtött lábát. Segítség nélkül a tisztálkodás, az öltözködés (alsóruházat, cipő húzása) és a toalett-használat jelenleg nehezített.
+
+========================================
+HALLGATÓ VÁLASZAI
+========================================
+
+1. Mit kérdeznél a betegtől az anamnézis felvétel során?
+személyes adatai, családi anamnézis, szociális anamnézis, jelen panaszai, általános és mozgásszervi állapota, segéeszköz használat, kórelőzmények, társbetegségek, káros szenvedélyek, korábbi műtéte
+
+2. Mit vizsgálnál az inspekció során?
+bőr állapotát, a műtéti hegeit, hogy van-e duzzanat, ödéma, hematóma, bőrének a színét, az izomatrófiát, meg hogy vannak-e tengelyeltérései, és látok-e aszimmetriát.
+
+3. Mit vizsgálnál a palpáció során?
+a bőrének a hőmérsékletét, a csontos képleteket, lágy részeket, szalagokat, fájdalmas pontokat, nyomásérzékeny pontokat, hegeket
+
+4. Milyen funkcionális méréseket végeznél?
+az izomerő mérés során a csípő és a térd körüli izmokat, mozgás tartomány mérés során aktív passzív mozgástartomány csípőben, térdben, lumbális szakaszon. Schober teszt. Izomtónus vizsgálat is.
+
+5. Milyen speciális teszteket végeznél el a betegen?
+Rajta semmit, mert műtötték
+
+6. Milyen rövidtávú kezelési célt és tervet állítanál fel?
+Rövid távon korai mobilizáls, posztoperatív szövődmények megelőzése, pl. pneumonia, tromboembóliás, decubitus, kontraktúra profilaxis, izomerősítés, csípő és térd körüli izmokban, segédeszköz használat betanítás. Hosszú távon mobilizálás és izomerősítés, önellátás növelése, életminőség javítása.
+
+7. Milyen hosszútávú kezelési célt és tervet állítanál fel?
+Hosszú távon mobilizálás és izomerősítés, önellátás növelése, életminőség javítása.
+
+========================================
+VIZSGÁZTATÓI ÉRTÉKELÉS
+========================================
+
+Kedves Hallgató! 
+
+Köszönöm a munkádat. Látom, hogy az általános gyógytornászi alapelvekkel és a posztoperatív betegellátás alapelemeivel tisztában vagy, a profilaxis fontosságát jól felismered. Ugyanakkor a klinikai gyógytornában a részletekben rejlik a lényeg: egy konkrét orvosi karton és műtéti típus (dorsolateralis behatolásból végzett cementetlen csípő TPA) esetében **a vizsgálatnak és a kezelésnek a betegspecifikus veszélyekre és célokra kell fókuszálnia**. 
+
+A válaszaid több ponton túlságosan általánosak voltak (felsorolásszerű tankönyvi címszavak), és sajnos előfordult egy súlyos szakmai/biztonsági hiba is.
+
+---
+
+### **ÖSSZESÍTETT ÉRTÉKELÉS ÉS PONTSZÁM**
+
+* **Elért pontszám:** **62 / 100 pont** (Osztályzat: **Egségséges / Közepes - 3**)
+* **Összefoglaló vélemény:** A teoretikus alapjaid megvannak, de klinikai szituációban jobban rá kell hangolódnod a konkrét betegre. A csípőprotézis műtéten átesett betegnél a betegbiztonság (luxációvédelem) és az egyéni szociális körülményekre való felkészítés a legfontosabb.
+
+---
+
+### **RÉSZLETES KÉRDÉSENKÉNTI ÉRTÉKELÉS**
+
+---
+
+#### **1. KÉRDÉS: Anamnézis felvétel**
+* **Mi volt jó?**
+  * Helyesen azonosítottad a fő anamnesztikus kategóriákat (szociális, családi, jelen panasz, társbetegségek, segédeszköz).
+* **Mi maradt ki / mi volt pontatlan?**
+  * **Címszavakat adtál meg ahelyett, hogy megfogalmaztad volna a konkrét kérdéseket.** 
+  * Kimaradt az operáló orvos által elrendelt **terhelhetőség tisztázása** (cementetlen THA-nál ez kulcskérdés!).
+  * Nem kérdeztél rá a beteg **szubjektív félelmeire** (a karton említi, hogy fél a járástól és a terheléstől).
+  * Nem kérdeztél rá a műtét előtti mozgáskorlátozottság mértékére és a fájdalom pontos mintázatára (VAS).
+* **Optimális, szakmailag teljes válasz:**
+  * *"Rákérdeznék a fájdalom pontos lokalizációjára és mértékére nyugalomban és mozgás közben (VAS skála). rákérdeznék az orvos által engedélyezett terhelés mértékére (pl. teljes, részleges vagy fájdalomhatárig történő terhelés). Részletesen kikérdezném a lakókörnyezetéről (lépcsők foka, kapaszkodók, kád magassága), a műtét előtti mobilitási szintjéről, valamint feltárnám a járással kapcsolatos félelmeit és bizonytalanságát."*
+
+---
+
+#### **2. KÉRDÉS: Inspekció (Megtekintés)**
+* **Mi volt jó?**
+  * A bőr állapotának, a hegnek, a duzzanatnak/ödémának, hematómának és az izomatrófiának a vizsgálata teljesen releváns.
+* **Mi maradt ki / mi volt pontatlan?**
+  * Csípő TPA után elengedhetetlen a **végtaghelyzet megtekintése** (van-e kóros berotáció vagy addukció – luxációs veszély!).
+  * Kimaradt a **látszólagos végtaghossz-különbség** megtekintése, valamint a drainek helye és a vénás pangás jelei a lábszáron.
+  * Hiányzott a testtartás és a felülési/kiülési mozgásminta megtekintése.
+* **Optimális, szakmailag teljes válasz:**
+  * *"Megtekinteném a műtéti heget (dorsolateralis metszés helye, pörkösödés, váladékozás, gyulladás jelei), a műtött végtag ödémáját és hematómáját (comb, lábszár). Vizsgálnám a műtött alsó végtag nyugalmi helyzetét (kerülve a kóros berotációt/addukciót), ellenőrizném a látszólagos végtaghossz-különbséget, a medence állását, valamint a beteg testtartását és mobilitását ágyban történő helyzetváltoztatás közben."*
+
+---
+
+#### **3. KÉRDÉS: Palpáció (Tapintás)**
+* **Mi volt jó?**
+  * A bőrhőmérséklet, a lágyrészek, csontos képletek, nyomásérzékenység és a heg tapintása helyes általános elemek.
+* **Mi maradt ki / mi volt pontatlan?**
+  * A posztoperatív 5. napon lévő betegnél **életbevágó a mélyvénás thrombosis (DVT) szűrése tapintással** (lábszár izomzatának feszülése, Homans-tünet / Neuhof-tünet orientációs tapintása).
+  * Kimaradt a glutealis és quadriceps izomzat tónusának tapintásos értékelése.
+* **Optimális, szakmailag teljes válasz:**
+  * *"Tapintanám a bőr hőmérsékletét (lokális gyulladás/fertőzés kiszűrése), a műtéti heg környezetét (fluktuáció, induráció kiszűrése). Kiemelten tapintanám a lábszárizomzatot (tónus, feszülés, nyomásérzékenység a DVT kizárására). Értékelném a glutealis és quadriceps izmok tónusát, valamint a csípőtájéki csontos támpontokat (SIAS, SIPS, trochanter major)."*
+
+---
+
+#### **4. KÉRDÉS: Funkcionális mérések**
+* **Mi volt jó?**
+  * Helyesen azonosítottad a csípő- és térdízületi mozgástartomány, valamint az izomerő és izomtónus mérésének szükségességét.
+* **Mi volt pontatlan / KONTRAINDIKÁLT? (Súlyos hiba!)**
+  * **Súlyos hibát vétettél:** A **Schober-teszt végzése a posztoperatív 5. napon szigorúan KONTRAINDIKÁLT!** A Schober-teszthez törzselőrehajlás (lumbális flexió) szükséges, ami a csípőízületben 90° feletti flexiót hoz létre. Dorsolateralis behatolású TPA után a 90° feletti flexió a protézis **LUXÁCIÓJÁHOZ (ficamához)** vezethet!
+  * Posztoperatív 5. napon **nem végzünk passzív mozgástartomány-mérést a műtött csípőn** a luxációveszély miatt, és **nem végzünk 0-5-ig terjedő ellenállásos izomerő-mérést** (MMT) a műtött ízületre!
+* **Optimális, szakmailag teljes válasz:**
+  * *"Mozgástartomány: Aktív és aktív-asszisztált mozgástartományt mérnék a biztonságos határokon belül. Csípő flexió MAX. 90°-ig, abdukció engedélyezett, ADDUKCIÓ ÉS BEROTÁCIÓ TILOS! Térd flexió/extenzió mérése. Izomerő: Izometriás izomerő-tesztet végeznék a gluteus maximus, medius és quadriceps izmokra (ellenállás nélkül!). Funkcionális mérésként értékelném az ágy szélére kiülést, az állásbiztonságot és a járásképességet segédeszközzel."*
+
+---
+
+#### **5. KÉRDÉS: Speciális tesztek**
+* **Mi volt jó?**
+  * Helyes a logikád, hogy a klasszikus ortopédiai csípőtesztek (pl. Trendelenburg-teszt, Thomas-teszt, FABER-teszt) ebben a korai fázisban kontraindikáltak.
+* **Mi maradt ki / mi volt pontatlan?**
+  * Az, hogy "rajta semmit", klinikai szempontból hiányos válasz. Léteznek olyan **biztonságos speciális/neurológiai/vaszkuláris vizsgálatok**, amelyeket el KELL végezni!
+* **Optimális, szakmailag teljes válasz:**
+  * *"Klasszikus ortopédiai csípőízületi teszteket (Thomas, Patrick, Trendelenburg) a műtéti stabilitás és a luxációveszély miatt NEM végzünk. Ugyanakkor elvégzem a **perifériás ér- és idegstátusz vizsgálatát** (a. dorsalis pedis pulzus, n. peroneus és n. tibialis motoros és szenzoros funkciója), a **DVT klinikai jeleinek szűrését** (Homans-tünet), valamint a **valódi és látszólagos végtaghossz-mérést** szalagmércével."*
+
+---
+
+#### **6. KÉRDÉS: Rövid távú kezelési cél és terv**
+* **Mi volt jó?**
+  * Nagyon jó, hogy kiemelted a posztoperatív szövődmények megelőzését (pneumonia, thrombosis, decubitus profilaxis), az izomerősítést és a segédeszköz-használatot!
+* **Mi maradt ki / mi volt pontatlan?**
+  * Teljesen kimaradt a legfontosabb szakmai elem: a **CSÍPŐISKOLA / LUXÁCIÓS PROFILAXIS betanítása** (dorsolateralis behatolásnál: tilos a flexió >90°, addukció a középvonalon túl, és a berotáció).
+  * Véletlenül a válaszod végére bemásoltad a hosszútávú célokat is.
+  * Kimaradt a lépcsőzés előkészítése és betanítása (a beteg I. emeleten lakik, 18 lépcsőfok!).
+* **Optimális, szakmailag teljes válasz:**
+  * *"Célok: Fájdalomcsökkentés, posztoperatív szövődmények (DVT, pneumonia, decubitus, kontraktúra) megelőzése, csípőiskola betanítása (luxációvédelem), önálló ágybeli mobilitás és kiülés elérése, járásbiztonság növelése könyökmankóval az engedélyezett terhelés mellett, lépcsőzés felkészítése.
+  * Terv: Legzőtorna, keringésjavító aktív bokaflexió-extenzió, izometriás torna (gluteusok, quadriceps), aktív-asszisztált mozgástartomány-növelés a megengedett határokon belül (flexio <90°), kiülés, felállás, járásgyakorlás könyökmankóval 3 pontos járásmintával, lépcsőzés oktatása (jó lábbal fel, műtött lábbal le)."*
+
+---
+
+#### **7. KÉRDÉS: Hosszú távú kezelési cél és terv**
+* **Mi volt jó?**
+  * Az irány jó: önellátás, életminőség, izomerősítés és mobilizáció.
+* **Mi maradt ki / mi volt pontatlan?**
+  * Nagyon felületes és általános volt. A beteg egyéni élethelyzetére kellett volna szabni! (Kertészkedéshez való visszatérés, kádas fürdőszoba adaptációja, sántításmentes járás).
+* **Optimális, szakmailag teljes válasz:**
+  * *"Célok: A csípőízület teljes funkcionális stabilitásának és fiziológiás mozgástartományának elérése, Trendelenburg-tünet (sántítás) megszüntetése, teljes önellátás biztosítása az otthoni környezetben (18 lépcsőfok, kádhasználat), visszatérés a hobbikhoz (séta, könnyű kertészkedés), segédeszköz fokozatos elhagyása.
+  * Terv: Progreszszív ellenállásos izomerősítés (különösen a gluteus medius és maximus), proprioceptív és egyensúlytréning, fiziológiás járásminta korrekciója, állóképességi tréning (séta), otthoni ergometriai tanácsadás (kádas kapaszkodó, magasított toalett ülőke)."*
+
+---
+
+### **ÚTRAVALÓ A KÖVETKEZŐ VIZSGÁRA**
+Ne csüggedj! A jó hír az, hogy a válaszaid szerkezete mutatja, hogy érted a gyógytorna logikáját. A fejlődéshez mindössze két dolgot kell tenned:
+1. **Mindig olvasd el figyelmesen a műtét típusát és a behatolási irányt** (ez határozza meg a mozgáskorlátozásokat és a betegbiztonságot!).
+2. **Ne csak kategóriákat sorolj fel**, hanem konkretizáld a válaszaidat az adott beteg korára, műtétjére és szociális hátterére.
+
+Sok sikert kívánok a felkészüléshez, biztos vagyok benne, hogy a következő alkalommal sokkal precízebb leszel!
